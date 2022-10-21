@@ -1,9 +1,17 @@
-# NGINX Proxy Manager 
+# NGINX Proxy Manager  Con  docker-compose
 Esta es la implementacino que realzió  Pablo Fredrikson.
 
 Esta en su repostorio https://github.com/pablokbs/peladonerd/tree/master/v2m/32
 
-Ete es el vidoe: https://youtu.be/0n9DLj2ndo4
+El video: https://youtu.be/0n9DLj2ndo4
+
+Hacer un clon de este repostirio.
+~~~
+git clone https://github.com/renzovelazquez/proxymanager.git
+~~~
+
+Hacer las Modificaciones de Usuraio y  contraseñas de mysql.
+
 
 Para correr el contendor:
 ~~~
